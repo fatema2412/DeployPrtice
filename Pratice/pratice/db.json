@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Chair",
+      "category": "Furniture",
+      "price": 200
+    },
+    {
+      "id": 4,
+      "name": "Table",
+      "category": "Furniture",
+      "price": 300
+    },
+    {
+      "id": 5,
+      "name": "Headphones",
+      "category": "Electronics",
+      "price": 150
+    },
+    {
+      "id": 6,
+      "name": "Sofa",
+      "category": "Furniture",
+      "price": 700
+    },
+    {
+      "id": 7,
+      "name": "Microwave",
+      "category": "Appliances",
+      "price": 400
+    },
+    {
+      "id": 8,
+      "name": "Refrigerator",
+      "category": "Appliances",
+      "price": 1200
+    },
+    {
+      "Name": "ll",
+      "Category": "",
+      "Price": "-13",
+      "checkbox": "",
+      "id": 9
+    },
+    {
+      "Name": "gg",
+      "Category": "applicane",
+      "Price": "322",
+      "checkbox": "",
+      "id": 10
+    }
+  ]
+}
